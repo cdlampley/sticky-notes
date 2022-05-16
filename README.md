@@ -1,4 +1,4 @@
-#Sticky-Notes-App
+Sticky Notes App
 
 Built a sticky note app using React JS. 
 
