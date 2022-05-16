@@ -1,5 +1,7 @@
-# sticky-notes
+Sticky Notes App
+
 Built a sticky note app using React JS. 
+
 Users are able to:
 - Add new sticky notes
 - Enter a title and description for each sticky note
