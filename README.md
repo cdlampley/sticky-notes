@@ -12,4 +12,4 @@ Skills: Javascript, React JS, Data Flow Management, DOM Manipulation
 
 Tools: CodeSandBox
 
-CodeSandBox link: https://nfr30p.csb.app/
+Link to application: https://nfr30p.csb.app/
